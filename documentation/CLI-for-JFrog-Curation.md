@@ -13,7 +13,7 @@ What can you do with Curation?
 
 For more information on JFrog Curation and how to set it up, see the JFrog Curation general documentation at https://jfrog.com/help.
 
-JFrog Curation requires [Xray version 3.78.9](https://jfrog.com/help/r/jfrog-release-information/xray-3.78.9) and above, and [Artifactory version 7.63.5](https://jfrog.com/help/r/jfrog-release-information/artifactory-7.63) and above. It also requires Enterprise X and Enterprise + subscriptions.
+JFrog Curation requires [Xray version 3.78.9](https://jfrog.com/help/r/jfrog-release-information/xray-3.78.9) and above, and [Artifactory version 7.63.5](https://jfrog.com/help/r/jfrog-release-information/artifactory-7.63) and above. It also requires Enterprise X or Enterprise+ subscription.
 
 ---
 
