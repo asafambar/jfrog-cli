@@ -643,8 +643,8 @@ github.com/arbovm/levenshtein v0.0.0-20160628152529-48b4e1c0c4d0 h1:jfIu9sQUG6Ig
 github.com/arbovm/levenshtein v0.0.0-20160628152529-48b4e1c0c4d0/go.mod h1:t2tdKJDJF9BV14lnkjHmOQgcvEKgtqs5a1N3LNdJhGE=
 github.com/armon/go-socks5 v0.0.0-20160902184237-e75332964ef5 h1:0CwZNZbxp69SHPdPJAN/hZIm0C4OItdklCFmMRWYpio=
 github.com/armon/go-socks5 v0.0.0-20160902184237-e75332964ef5/go.mod h1:wHh0iHkYZB8zMSxRWpUBQtwG5a7fFgvEO+odwuTv2gs=
-github.com/asafambar/jfrog-cli-security v0.0.0-20240728102135-d088c0c6a674 h1:i3woRjT3d4lgASl7Ht3dbQSGTM5X5Ip1GKoN7EQw7fw=
-github.com/asafambar/jfrog-cli-security v0.0.0-20240728102135-d088c0c6a674/go.mod h1:lNcLT+lH7xvZaC+eSjvz1kGpVvkL9ZthYyBZy7O4aCA=
+github.com/asafambar/jfrog-cli-security v0.0.0-20240728110431-8bccc2832cca h1:4SxwoDC4k+JcT0YdnXCl++0v7+uDAISsYfy438rd110=
+github.com/asafambar/jfrog-cli-security v0.0.0-20240728110431-8bccc2832cca/go.mod h1:lNcLT+lH7xvZaC+eSjvz1kGpVvkL9ZthYyBZy7O4aCA=
 github.com/beevik/etree v1.4.0 h1:oz1UedHRepuY3p4N5OjE0nK1WLCqtzHf25bxplKOHLs=
 github.com/beevik/etree v1.4.0/go.mod h1:cyWiXwGoasx60gHvtnEh5x8+uIjUVnjWqBvEnhnqKDA=
 github.com/boombuler/barcode v1.0.0/go.mod h1:paBWMcWSl3LHKBqUq+rly7CNSldXjb2rDl3JlRe0mD8=
